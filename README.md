@@ -2,4 +2,4 @@
 the program utilises YOLOv5 to detect windows from a given image. the labelled database was extracted from googled images via webscraping then processed with roboflow.
 
 only the main python notebook has been added. the code will not work as the yolov5 trained model has not ben uploaded. 
-additional code to determine the dimensions of the object (window) in the given image has not been completed.
+prototype code for dimensions has been uploaded
